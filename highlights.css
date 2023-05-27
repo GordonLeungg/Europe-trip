@@ -1,0 +1,61 @@
+@import url("https://fonts.googleapis.com/css?family=Eczar");
+
+body{
+	background-image: url("533E86DC-0070-451E-8129-B12F05B49F36.jpeg");
+	font-family: "Eczar";
+	margin-left: 0px;
+	margin-right: 0px;
+	margin-bottom: 0px;
+	
+	}
+
+hr{
+
+}
+a{
+	font-family: "Eczar";
+	color: black;
+	text-decoration: none;
+	font-size: 16px;
+	background-color: white;
+	border-radius: 80px;
+	padding-left: 10px;
+	padding-right: 10px;
+	}
+h1{
+	text-align: center;
+	}
+	
+hr{
+	height: 4px;
+	background-color: white;
+	border: none;
+}
+img{
+	height: 190px;
+	}
+div{
+	background-color: white;
+	padding-top: 10px;
+	padding-bottom: 5px;
+	padding-left: 2px;
+	padding-right: 2px;
+	text-align: center;
+	margin-bottom: 0px;
+	line-height: 5px;
+	}
+p{
+	margin-top: 0px;
+	background-color: white;
+	padding-left: 12px;
+	}
+h2{ 
+	padding-left: 10px;
+	}
+h5{
+	padding-bottom: 0px;
+	margin-bottom: 0px;
+	text-align: right;
+	margin-right: 8px;
+	color: black;
+	}
